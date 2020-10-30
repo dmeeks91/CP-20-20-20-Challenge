@@ -1,0 +1,19 @@
+{
+  "name": "weight-loss-app",
+  "version": "1.0.0",
+  "description": "Capital Punishment 20-20-20 Weight Loss Challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmeeks91/CP-20-20-20-Challenge.git"
+  },
+  "author": "dmg91",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmeeks91/CP-20-20-20-Challenge/issues"
+  },
+  "homepage": "https://github.com/dmeeks91/CP-20-20-20-Challenge#readme"
+}
